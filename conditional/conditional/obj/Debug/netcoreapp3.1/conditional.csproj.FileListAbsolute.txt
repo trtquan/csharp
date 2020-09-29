@@ -1,0 +1,13 @@
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\obj\Debug\netcoreapp3.1\conditional.csprojAssemblyReference.cache
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\obj\Debug\netcoreapp3.1\conditional.AssemblyInfoInputs.cache
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\obj\Debug\netcoreapp3.1\conditional.AssemblyInfo.cs
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\obj\Debug\netcoreapp3.1\conditional.csproj.CoreCompileInputs.cache
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\bin\Debug\netcoreapp3.1\conditional.exe
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\bin\Debug\netcoreapp3.1\conditional.deps.json
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\bin\Debug\netcoreapp3.1\conditional.runtimeconfig.json
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\bin\Debug\netcoreapp3.1\conditional.runtimeconfig.dev.json
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\bin\Debug\netcoreapp3.1\conditional.dll
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\bin\Debug\netcoreapp3.1\conditional.pdb
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\obj\Debug\netcoreapp3.1\conditional.dll
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\obj\Debug\netcoreapp3.1\conditional.pdb
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\conditional\conditional\obj\Debug\netcoreapp3.1\conditional.genruntimeconfig.cache
