@@ -1,0 +1,13 @@
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\bin\Debug\netcoreapp3.1\date-time.exe
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\bin\Debug\netcoreapp3.1\date-time.deps.json
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\bin\Debug\netcoreapp3.1\date-time.runtimeconfig.json
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\bin\Debug\netcoreapp3.1\date-time.runtimeconfig.dev.json
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\bin\Debug\netcoreapp3.1\date-time.dll
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\bin\Debug\netcoreapp3.1\date-time.pdb
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\obj\Debug\netcoreapp3.1\date-time.AssemblyInfoInputs.cache
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\obj\Debug\netcoreapp3.1\date-time.AssemblyInfo.cs
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\obj\Debug\netcoreapp3.1\date-time.csproj.CoreCompileInputs.cache
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\obj\Debug\netcoreapp3.1\date-time.dll
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\obj\Debug\netcoreapp3.1\date-time.pdb
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\obj\Debug\netcoreapp3.1\date-time.genruntimeconfig.cache
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\date-time\date-time\obj\Debug\netcoreapp3.1\date-time.csprojAssemblyReference.cache
