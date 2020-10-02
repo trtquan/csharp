@@ -1,0 +1,13 @@
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\bin\Debug\netcoreapp3.1\ps1.exe
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\bin\Debug\netcoreapp3.1\ps1.deps.json
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\bin\Debug\netcoreapp3.1\ps1.runtimeconfig.json
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\bin\Debug\netcoreapp3.1\ps1.runtimeconfig.dev.json
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\bin\Debug\netcoreapp3.1\ps1.dll
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\bin\Debug\netcoreapp3.1\ps1.pdb
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\obj\Debug\netcoreapp3.1\ps1.csprojAssemblyReference.cache
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\obj\Debug\netcoreapp3.1\ps1.AssemblyInfoInputs.cache
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\obj\Debug\netcoreapp3.1\ps1.AssemblyInfo.cs
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\obj\Debug\netcoreapp3.1\ps1.csproj.CoreCompileInputs.cache
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\obj\Debug\netcoreapp3.1\ps1.dll
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\obj\Debug\netcoreapp3.1\ps1.pdb
+C:\Workspace\LifeScience\LSCP\Training\c#\Practice\csharptraining\ps1\ps1\obj\Debug\netcoreapp3.1\ps1.genruntimeconfig.cache
